@@ -1,4 +1,4 @@
-package az.zero.navigationcomponent_cat.ui.fragment;
+package az.zero.navigationcomponent_cat.ui.fragment.bottom;
 
 
 import android.os.Bundle;
